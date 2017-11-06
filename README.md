@@ -457,7 +457,8 @@
   * [www.cheat-sheets.org/](http://www.cheat-sheets.org/)
   * [DZone](http://refcardz.dzone.com/)
   * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
-  * [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
+  * [Syncfusion Library](https://www.syncfusion.com/resources/techportal/ebooks/)
+  * [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
     * [廖雪峰 Python 2.7 教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
     * [廖雪峰 Python 3 教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
